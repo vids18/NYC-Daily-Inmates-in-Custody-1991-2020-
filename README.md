@@ -18,6 +18,5 @@ There are 4143 observations and 13 columns in the dataset.
 | Race | Tells us the Race of the inmate| String (Plain Text) | A B, I, O, U and W|
 | Gender| Gender of the inmate | String (Plain Text)| Male or Female|
 | Age| Calculate the Age of the inmate | Number| |
-| Inmate_Status_Code| Provides the inmate status example if the inmate is a detainee. | String (Plain Text) | CS= City Sentenced,CSP= City Sentenced - with VP Warrant,DE= Detainee, DEP= Detainee - with Open Case & VP Warrant, DNS= Detainee- Newly Sentenced to State Time
-DPV= Detainee- Technical Parole Violator, SCO= State Prisoner- Court Order, SSR= State Ready |
+| Inmate_Status_Code| Provides the inmate status example if the inmate is a detainee. | String (Plain Text) | CS= City Sentenced,CSP= City Sentenced - with VP Warrant,DE= Detainee, DEP= Detainee - with Open Case & VP Warrant, DNS= Detainee- Newly Sentenced to State Time, DPV= Detainee- Technical Parole Violator, SCO= State Prisoner- Court Order, SSR= State Ready |
 | Infraction | Indicates whether the inmate has an infraction | String (Plain Text) | Yes or No|
