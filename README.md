@@ -8,15 +8,16 @@ This dataset has daily update frequency, so there may be some inconsistencies wi
 There are 4143 observations and 13 columns in the dataset. 
 
 # Data Dictionary
+
 | Column Name | Description | Data Type | Expected Value |
-|-------------------------------------------------------- |
-| Inmateid| A primary key that uniquely identifies each inmate record.| Number|
-| Admitted_Dt| Admitted date and time of the incident| Date & Time|
+|------------ |------------ | -----------| ------------- |
+| Inmateid| A primary key that uniquely identifies each inmate record.| Number| |
+| Admitted_Dt| Admitted date and time of the incident| Date & Time| |
 | Custody_level | Level of custody provided for the inmate. | String (Plain Text) | MIN, MED, and MAX|
 | Bradh| Whether the inmate is under mental observation or not.| String (Plain Text) | YES or NO|
 | Race | Tells us the Race of the inmate| String (Plain Text) | A B, I, O, U and W|
 | Gender| Gender of the inmate | String (Plain Text)| Male or Female|
-| Age| Calculate the Age of the inmate | Number|
+| Age| Calculate the Age of the inmate | Number| |
 | Inmate_Status_Code| Provides the inmate status example if the inmate is a detainee. | String (Plain Text) | CS= City Sentenced
 CSP= City Sentenced - with VP Warrant
 DE= Detainee
