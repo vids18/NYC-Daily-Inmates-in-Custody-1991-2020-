@@ -9,9 +9,8 @@ There are 4143 observations and 13 columns in the dataset.
 
 # Data Dictionary
 | Column Name | Description | Data Type | Expected Value |
-----------------------------------------------------------
+|-------------------------------------------------------- |
 | Inmateid| A primary key that uniquely identifies each inmate record.| Number|
----------------------------------------------------------------------
 | Admitted_Dt| Admitted date and time of the incident| Date & Time|
 | Custody_level | Level of custody provided for the inmate. | String (Plain Text) | MIN, MED, and MAX|
 | Bradh| Whether the inmate is under mental observation or not.| String (Plain Text) | YES or NO|
