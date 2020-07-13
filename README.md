@@ -20,3 +20,6 @@ There are 4143 observations and 13 columns in the dataset.
 | Age| Calculate the Age of the inmate | Number| |
 | Inmate_Status_Code| Provides the inmate status example if the inmate is a detainee. | String (Plain Text) | CS= City Sentenced,CSP= City Sentenced - with VP Warrant,DE= Detainee, DEP= Detainee - with Open Case & VP Warrant, DNS= Detainee- Newly Sentenced to State Time, DPV= Detainee- Technical Parole Violator, SCO= State Prisoner- Court Order, SSR= State Ready |
 | Infraction | Indicates whether the inmate has an infraction | String (Plain Text) | Yes or No|
+
+# Published Work
+An article is penned and published on LinkedIn. You can check that out here: https://www.linkedin.com/pulse/analysis-nyc-daily-inmates-2012-2020-vidhi-chitalia/
